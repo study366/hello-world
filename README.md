@@ -3,7 +3,7 @@
 //奶奶的。我找了好久的代码编写按捏，没想到是一只笔。
 <html>
   <head>
-    <title>firstCodeOnGithub</title>
+    <title>firstCode</title>
     <meta charset='UTF-8'></meta>
   </head>
   <body>

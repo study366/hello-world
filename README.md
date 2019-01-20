@@ -4,12 +4,11 @@
 <html>
   <head>
     <title>firstCodeOnGithub</title>
-    <meta charset='NTF-8'></meta>
+    <meta charset='UTF-8'></meta>
   </head>
   <body>
     <div>
       <p>it my first code on github</p>
-         
-    </div>
+    </div>     
   </body>
 </html>
